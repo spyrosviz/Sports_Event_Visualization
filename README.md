@@ -4,15 +4,15 @@
 This project aims in visualizing sport events in **football**, **basketball** and **tennis**
 
 ## Source of Data
-Data for football are open source data created by WyScout and Statsbomb.
-Data for basketball were found on [kaggle](https://www.kaggle.com/boonpalipatana/nba-playoff-shots-2018)
-Data for tennis were also found on [kaggle](https://www.kaggle.com/boonpalipatana/nba-playoff-shots-2018)
+*Data for football are open source data created by WyScout and Statsbomb.
+*Data for basketball were found on [kaggle](https://www.kaggle.com/boonpalipatana/nba-playoff-shots-2018)
+*Data for tennis were also found on [kaggle](https://www.kaggle.com/boonpalipatana/nba-playoff-shots-2018)
 
 ## Aknowledgements
-All contributors of mplsoccer library which is very useful for visualizing football events data
-Boon P for uploading NBA Playoff 2018 data on kaggle
-[Savvas Tjortjoglou](https://github.com/savvastj) and [hkair](https://github.com/hkair) for creating functions to draw beautiful visualizations of the basketball events on court
-Robert Seidl for creating and uploading Australian Open Final 2019 tennis data on kaggle
+*All contributors of mplsoccer library which is very useful for visualizing football events data
+*Boon P for uploading NBA Playoff 2018 data on kaggle
+*[Savvas Tjortjoglou](https://github.com/savvastj) and [hkair](https://github.com/hkair) for creating functions to draw beautiful visualizations of the basketball events on court
+*Robert Seidl for creating and uploading Australian Open Final 2019 tennis data on kaggle
 
 ## Project Description
 This project has 3 main parts where each part is about a different sport (football, basketball and tennis)
